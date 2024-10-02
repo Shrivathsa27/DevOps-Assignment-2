@@ -1,4 +1,4 @@
-# PearlThoughts-Assignment-2 - Hello World Node.js application
+# Hello World Node.js application
 
 This is a simple Node.js application that serves a "Hello World" message. The application is containerized using Docker and deployed to AWS ECS/Fargate using Terraform and GitHub Actions.
 
